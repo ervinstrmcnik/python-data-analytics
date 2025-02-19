@@ -20,7 +20,7 @@
 ---
 
 **What you'll learn**:
-- Into and Environment Setup
+- Intro and Environment Setup
 - Introduction to NumPy
 - Introduction to Pandas
 - Acquiring Your Data
@@ -37,7 +37,7 @@
 
 ## Full Course Outline
 
-### [Part 1: Into and Environment Setup](./Part_01_Into_and_Environment_Setup/README.md)
+### [Part 1: Intro and Environment Setup](./Part_01_Intro_and_Environment_Setup/README.md)
 - What is Data?
 - Data Engineer, Data Analyst, Data Scientist — What’s the Difference?
 - Data Analysis Workflow

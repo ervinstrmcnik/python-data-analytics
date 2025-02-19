@@ -1,4 +1,4 @@
-# Into and Environment Setup
+# Intro and Environment Setup
 
 **Sources:**
 - [Using Python for Data Analysis](https://realpython.com/python-for-data-analysis/#resolving-an-anomaly)
