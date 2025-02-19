@@ -14,7 +14,7 @@
     "ruff.importStrategy": "fromEnvironment",
     "ruff.lint.select": ["ALL"],
     "ruff.lineLength": 180,
-    "ruff.lint.ignore": ["S105", "N815", "D104"],
+    "ruff.lint.ignore": ["S105", "N815", "D104", "T201"],
     "ruff.exclude": ["**/tests/**"],
     "python.testing.pytestArgs": [
         "tests"

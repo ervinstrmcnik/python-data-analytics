@@ -49,6 +49,13 @@
 - Installing Jupyter Notebook
 - [Appendix: Conda and Anaconda](./Part_01_Intro_and_Environment_Setup/Appendix_anaconda.md)
 
+### [Part 2: Introduction to NumPy](./Part_02_Introduction_to_NumPy/README.md)
+- What is NumPy?
+- Installing NumPy
+- Understanding Data Types in Python
+- NumPy Speed
+
+
 ## Sources
 
 ## Changes
