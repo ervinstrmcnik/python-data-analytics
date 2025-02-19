@@ -47,6 +47,7 @@
 - Installing Python Modules
 - Installing and running VSCode
 - Installing Jupyter Notebook
+- [Appendix: Conda and Anaconda](./Part_01_Intro_and_Environment_Setup/Appendix_anaconda.md)
 
 ## Sources
 
