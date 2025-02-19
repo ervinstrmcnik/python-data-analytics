@@ -446,6 +446,7 @@ Create a `.vscode` folder in the project root. In the new folder create a file `
 - [The Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)
 - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/)
 - [Installing Jupyter](https://jupyter.org/install)
+- [JupyterLab for an Enhanced Notebook Experience](https://realpython.com/using-jupyterlab/)
 - [How to Use Jupyter Notebooks: The Ultimate Guide](https://www.datacamp.com/tutorial/tutorial-jupyter-notebook)
 - [How to Use Jupyter Notebook: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [Tutorial: Advanced Jupyter Notebooks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
