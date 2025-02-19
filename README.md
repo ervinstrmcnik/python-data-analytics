@@ -55,7 +55,6 @@
 - Understanding Data Types in Python
 - NumPy Speed
 
-
 ## Sources
 
 ## Changes
