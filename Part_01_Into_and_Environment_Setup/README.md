@@ -271,7 +271,7 @@ You may not see the warning, because the execution policy might already be set. 
 > Without administrator privileges: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
 
 
-## Install Python with UV
+### Install Python with UV
 - [UV Docs](https://docs.astral.sh/uv/)
 - [Installing Python](https://docs.astral.sh/uv/guides/install-python/)
 

@@ -37,6 +37,17 @@
 
 ## Full Course Outline
 
+### [Part 1: Into and Environment Setup](./Part_01_Into_and_Environment_Setup/README.md)
+- What is Data?
+- Data Engineer, Data Analyst, Data Scientist — What’s the Difference?
+- Data Analysis Workflow
+- Python intro
+- Git in Github
+- Installing Python
+- Installing Python Modules
+- Installing and running VSCode
+- Installing Jupyter Notebook
+
 ## Sources
 
 ## Changes
