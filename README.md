@@ -54,6 +54,10 @@
 - Installing NumPy
 - Understanding Data Types in Python
 - NumPy Speed
+- Example: Data analysis in pure Python vs NumPy/Pandas
+- NumPy basics - Introduction to Ndarrays
+- Basic Operations and Universal Functions
+
 
 ## Sources
 
