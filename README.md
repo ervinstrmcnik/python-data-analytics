@@ -57,7 +57,11 @@
 - Example: Data analysis in pure Python vs NumPy/Pandas
 - NumPy basics - Introduction to Ndarrays
 - Basic Operations and Universal Functions
-
+- Indexing, Slicing and Iterating
+- Boolean Indexing
+- Shape manipulation
+- Copies and views
+- Examples of real life usage
 
 ## Sources
 
