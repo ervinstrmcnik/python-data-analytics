@@ -1,8 +1,8 @@
 # Python Specialization: Data Analytics
 
-<!-- <p align="center">
-  <a href=""><img src="" alt="Data Analytics"></a>
-</p> -->
+<p align="center">
+  <a href="./resources/DataAnalytics.png"><img src="./resources/DataAnalytics.png" alt="DataAnalytics"></a>
+</p>
 <p align="center">
     <em>Learn Python for Data Analytics. Learn how to analyze and visualize different data types and do projects with them.</em>
 </p>
