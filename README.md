@@ -62,7 +62,6 @@
 - Shape manipulation
 - Copies and views
 - Examples of real life usage
-
-## Sources
+- NumPy Exercises
 
 ## Changes

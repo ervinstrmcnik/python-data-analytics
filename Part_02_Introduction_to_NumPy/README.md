@@ -9,6 +9,9 @@
 - [NumPy tutorials](https://numpy.org/numpy-tutorials/index.html)
 - [NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [NumPy Practical Examples: Useful Techniques](https://realpython.com/numpy-example/#setting-up-your-working-environment)
+- [Scientific Python Lectures](https://lectures.scientific-python.org/)
+- [Python NumPy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
+- [100 NumPy exercises](https://github.com/rougier/numpy-100/tree/master)
 
 ## What is NumPy?
 
