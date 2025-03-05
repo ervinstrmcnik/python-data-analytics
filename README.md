@@ -68,6 +68,8 @@
 - What is Pandas?
 - Installing Pandas
 - Data structures
+- Essential basic functionality
+- Indexing and selecting data
 
 ## Changes
 
