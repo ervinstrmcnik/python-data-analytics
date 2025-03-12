@@ -78,7 +78,6 @@
 - Collecting Data from APIs
 - Web Scraping Basics
 - Working with Databases
-- Big Data & Cloud Storage
 - End-to-End Data Acquisition Pipeline
 
 ## Changes
