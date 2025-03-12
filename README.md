@@ -74,6 +74,7 @@
 ### [Part 4: Acquiring Your Data](./Part_04_Acquiring_Your_Data/README.md)
 - Introduction to Data Acquisition
 - Working with Flat Files
+- Working with Binary Files
 - Collecting Data from APIs
 - Web Scraping Basics
 - Working with Databases
