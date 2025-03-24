@@ -1,6 +1,6 @@
 company,rank,revenues,revenue_change,profits,assets,profit_change,ceo,industry,sector,previous_rank,country,hq_location,website,years_on_global_500_list,employees,total_stockholder_equity
 Walmart,1,485873,0.8,13643.0,198825,-7.2,C. Douglas McMillon,General Merchandisers,Retailing,1,USA,"Bentonville, AR",http://www.walmart.com,23,2300000,77798
-State Grid,2,315199,-4.4,9571.3,489838,-6.2,Kou Wei,Utilities,Energy,2,China,"Beijing, China",http://www.sgcc.com.cn,17,926067,209456
+State Grid,2,315199,-4.4,9571.3,489838,-6.2,Kou Wei,Utilities,Eenergy,2,China,"Beijing, China",http://www.sgcc.com.cn,17,926067,209456
 Sinopec Group,3,267518,-9.1,1257.9,310726,-65.0,Wang Yupu,Petroleum Refining,Energy,4,China,"Beijing, China",http://www.sinopec.com,19,713288,106523
 China National Petroleum,4,262573,-12.3,1867.5,585619,-73.7,Zhang Jianhua,Petroleum Refining,Energy,3,China,"Beijing, China",http://www.cnpc.com.cn,17,1512048,301893
 Toyota Motor,5,254694,7.7,16899.3,437575,-12.3,Akio Toyoda,Motor Vehicles and Parts,Motor Vehicles & Parts,8,Japan,"Toyota, Japan",http://www.toyota-global.com,23,364445,157210
@@ -10,7 +10,7 @@ Berkshire Hathaway,8,223604,6.1,24074.0,620854,,Warren E. Buffett,Insurance: Pro
 Apple,9,215639,-7.7,45687.0,321686,-14.4,Timothy D. Cook,"Computers, Office Equipment",Technology,9,USA,"Cupertino, CA",http://www.apple.com,15,116000,128249
 Exxon Mobil,10,205004,-16.7,7840.0,330314,-51.5,Darren W. Woods,Petroleum Refining,Energy,6,USA,"Irving, TX",http://www.exxonmobil.com,23,72700,167325
 McKesson,11,198533,3.1,5070.0,60969,124.5,John H. Hammergren,Wholesalers: Health Care,Wholesalers,12,USA,"San Francisco, CA",http://www.mckesson.com,23,64500,11095
-BP,12,186606,-17.4,115.0,263316,,Robert W. Dudley,Petroleum Refining,Energy,10,Britain,"London, Britain",http://www.bp.com,23,74500,95286
+BP,12,186606,-17.4,115.0,263316,,Robert W. Dudley,Petroleum Refining,energy,10,Britain,"London, Britain",http://www.bp.com,23,74500,95286
 UnitedHealth Group,13,184840,17.7,7017.0,122810,20.7,Stephen J. Hemsley,Health Care: Insurance and Managed Care,Health Care,17,USA,"Minnetonka, MN",http://www.unitedhealthgroup.com,21,230000,38274
 CVS Health,14,177526,15.8,5317.0,94462,1.5,Larry J. Merlo,Health Care: Pharmacy and Other Services,Health Care,18,USA,"Woonsocket, RI",http://www.cvshealth.com,22,204000,36830
 Samsung Electronics,15,173957,-2.0,19316.5,217104,16.8,Oh-Hyun Kwon,"Electronics, Electrical Equip.",Technology,13,South Korea,"Suwon, South Korea",http://www.samsung.com,23,325000,154376
@@ -61,7 +61,7 @@ Home Depot,59,94595,6.9,7957.0,42966,13.5,Craig A. Menear,Specialty Retailers,Re
 Boeing,60,94571,-1.6,4895.0,89997,-5.4,Dennis A. Muilenburg,Aerospace and Defense,Aerospace & Defense,61,USA,"Chicago, IL",http://www.boeing.com,23,150540,817
 Wells Fargo,61,94176,4.6,21938.0,1930115,-4.2,Timothy J. Sloan,Banks: Commercial and Savings,Financials,67,USA,"San Francisco, CA",http://www.wellsfargo.com,20,269100,199581
 Bank of America Corp.,62,93662,0.7,17906.0,2187702,12.7,Brian T. Moynihan,Banks: Commercial and Savings,Financials,64,USA,"Charlotte, NC",http://www.bankofamerica.com,23,208024,266840
-Gazprom,63,91382,-8.1,14222.6,277262,10.4,Alexey B. Miller,Energy,Energy,56,Russia,"Moscow, Russia",http://www.gazprom.com,21,467400,181813
+Gazprom,63,91382,-8.1,14222.6,277262,10.4,Alexey B. Miller,Energy,Energy sector,56,Russia,"Moscow, Russia",http://www.gazprom.com,21,467400,181813
 Nestle,64,90814,-1.6,8659.2,129824,-8.1,Ulf Mark Schneider,Food Consumer Products,"Food, Beverages & Tobacco",66,Switzerland,"Vevey, Switzerland",http://www.nestle.com,23,328000,63573
 Alphabet,65,90272,20.4,19478.0,167497,19.1,Larry Page,Internet Services and Retailing,Technology,94,USA,"Mountain View, CA",http://www.abc.xyz,9,72053,139036
 Siemens,66,88419,0.9,6050.5,141271,-27.4,Josef Kaeser,Industrial Machinery,Industrials,71,Germany,"Munich, Germany",http://www.siemens.com,23,351000,38444
@@ -82,16 +82,16 @@ Credit Agricole,80,80258,-4.6,3914.7,1607501,0.4,Philippe Brassac,Banks: Commerc
 IBM,81,79919,-3.1,11872.0,117470,-10.0,Virginia M. Rometty,Information Technology Services,Technology,82,USA,"Armonk, NY",http://www.ibm.com,23,414400,18246
 Electricite de France,82,78740,-5.4,3152.8,297026,139.4,Jean-Bernard Levy,Utilities,Energy,80,France,"Paris, France",http://www.edf.fr,23,154808,36319
 Huawei Investment & Holding,83,78511,24.9,5579.4,63837,-5.0,Ren Zhengfei,Network and Other Communications Equipment,Technology,129,China,"Shenzhen, China",http://www.huawei.com,8,180000,20159
-Enel,84,78064,-7.0,2842.0,164096,16.7,Francesco Starace,Utilities,Energy,78,Italy,"Rome, Italy",http://www.enel.com,23,62080,36704
+Enel,84,78064,-7.0,2842.0,164096,16.7,Francesco Starace,Utilities,Sector Energy,78,Italy,"Rome, Italy",http://www.enel.com,23,62080,36704
 State Farm Insurance Cos.,85,76132,0.6,350.3,256030,-94.4,Michael L. Tipsord,Insurance: Property and Casualty (Mutual),Financials,93,USA,"Bloomington, IL",http://www.statefarm.com,23,68234,87592
 China Resources National,86,75776,-1.0,2580.2,158291,3.7,Luo Xi,Pharmaceuticals,Health Care,91,China,"Hong Kong, China",http://www.crc.com.hk,8,420572,23605
 AEON,87,75772,11.8,103.9,78223,108.6,Motoya Okada,General Merchandisers,Retailing,111,Japan,"Chiba, Japan",http://www.aeon.info,23,274760,9567
 HSBC Holdings,88,75329,-15.4,2479.0,2374986,-81.7,Stuart T. Gulliver,Banks: Commercial and Savings,Financials,68,Britain,"London, Britain",http://www.hsbc.com,23,241000,175386
 Pacific Construction Group,89,74629,2.2,3168.1,48196,-1.2,Yan Hao,"Engineering, Construction",Engineering & Construction,99,China,"Nanjing, China",http://www.cpcg.com.cn,4,362128,19835
 Aviva,90,74628,105.9,948.8,544063,-32.3,Mark Wilson,"Insurance: Life, Health (stock)",Financials,279,Britain,"London, Britain",http://www.aviva.com,23,29530,21004
-Uniper,91,74407,,-3557.5,51541,,Klaus Schafer,Energy,Energy,0,Germany,"Dusseldorf, Germany",http://www.uniper.energy,1,12890,12889
+Uniper,91,74407,,-3557.5,51541,,Klaus Schafer,Energy,-Energy-,0,Germany,"Dusseldorf, Germany",http://www.uniper.energy,1,12890,12889
 Tesco,92,74393,-15.1,-52.7,57052,-125.3,David J. Lewis,Food and Drug Stores,Food & Drug Stores,72,Britain,"Welwyn Garden City, Britain",http://www.tescoplc.com,23,342770,8011
-Engie,93,73692,-4.9,-458.9,167158,,Isabelle Kocher,Energy,Energy,89,France,"Courbevoie, France",http://www.engie.com,22,153090,41740
+Engie,93,73692,-4.9,-458.9,167158,,Isabelle Kocher,Energy,-Energy-,89,France,"Courbevoie, France",http://www.engie.com,22,153090,41740
 Airbus Group,94,73628,3.0,1100.3,117204,-63.2,Thomas Enders,Aerospace and Defense,Aerospace & Defense,100,Netherlands,"Leiden, Netherlands",http://www.airbusgroup.com,23,133782,3857
 SK Holdings,95,72579,107.4,659.7,85332,-86.0,Tae Won Chey,Petroleum Refining,Energy,294,South Korea,"Seoul, South Korea",http://www.sk.co.kr,2,84000,10858
 Phillips 66,96,72396,-16.9,1555.0,51653,-63.2,Greg C. Garland,Petroleum Refining,Energy,74,USA,"Houston, TX",http://www.phillips66.com,5,14800,22390

@@ -84,9 +84,9 @@
 - Introduction to Data Wrangling
 - Data Inspection and Basic Manipulations
 - String Manipulation
+- Handling Duplicates
 - Handling Missing Data
 - Data Type Conversion
-- Handling Duplicates
 - Data Transformation
 - Merging & Reshaping Data
 - Handling Outliers
