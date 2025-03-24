@@ -23,6 +23,7 @@
     "python.testing.pytestEnabled": true,
     "cSpell.words": [
         "Colab",
+        "dotenv",
         "mpls",
         "Ndarrays",
         "Pylance",

@@ -1,0 +1,510 @@
+ip,rir,is_mobile,is_crawler,is_datacenter,is_tor,is_proxy,is_vpn,is_abuser,datacenter_name,company_name,company_abuser_score,company_type,country,city,latitude,longitude
+18.118.121.126,ARIN,False,False,True,False,True,True,True,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0006 (Low),hosting,United States,Columbus,39.96118,-82.99879
+188.187.129.8,RIPE,False,False,False,False,True,False,True,,JSC ER-Telecom Holding Tomsk Branch,0.0059 (Low),isp,Russia,Tomsk,56.50032,84.98204
+217.113.194.141,RIPE,False,False,True,False,False,False,True,L'ile aux surfers s.a.r.l.,FR BABBAR 20220729,0.9922 (Very High),business,France,Charleville-Mézières,49.7495,4.6095
+20.169.105.164,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+162.158.162.67,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+167.94.138.160,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",1 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+86.144.176.36,RIPE,False,False,False,False,False,False,True,,IP pools,0.0005 (Very Low),isp,United Kingdom,Liverpool,53.41058,-2.97794
+185.247.137.45,RIPE,False,False,False,False,True,False,True,,Turkbil Telekomunikasyon,0.9844 (Very High),isp,United Kingdom,London,51.50853,-0.12574
+167.253.34.3,ARIN,False,False,True,False,False,False,True,"Microtronix ESolutions, LLC","Microtronix ESolutions, LLC",0.0039 (Low),hosting,United States,Ottoville,40.93227,-84.33884
+103.42.243.4,,False,False,False,False,True,False,True,,PT Merdeka Media Teknologi,0.1406 (High),isp,Indonesia,Pemalang,-6.9,109.36667
+18.188.255.68,ARIN,False,False,True,False,False,True,True,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0006 (Low),hosting,United States,Columbus,39.96118,-82.99879
+41.45.196.210,AFRINIC,False,False,False,False,False,False,False,,TE Data,0.0017 (Low),isp,Egypt,Cairo,30.06263,31.24967
+195.178.110.54,RIPE,False,False,False,False,True,False,True,,TECHOFF SRV LIMITED,0.3203 (Very High),business,Estonia,Tallinn,59.43696,24.75353
+1.24.16.70,APNIC,False,False,False,False,False,False,True,,China unicom InnerMongolia province network,0.001 (Low),isp,China,Beijing,39.9075,116.39723
+122.116.21.91,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0118 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+4.246.229.30,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0003 (Very Low),isp,United States,Washington,38.71345,-78.15944
+149.50.222.8,RWHOIS,False,False,True,False,False,True,True,cdn77.com,Datacamp Limited,0.0474 (High),hosting,Canada,Toronto,43.70643,-79.39864
+43.166.238.12,APNIC,False,False,False,False,True,True,True,,16 COLLYER QUAY # 18-29 INCOME AT RAFFLES,0.0032 (Low),business,United States,Rockville,39.084,-77.15276
+162.158.102.58,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,Poland,Warsaw,52.22977,21.01178
+204.76.203.15,ARIN,False,False,True,False,True,False,True,Pfcloud UG,Intelligence Hosting LLC,0.3672 (Very High),hosting,The Netherlands,Maastricht,50.8931,6.0591
+20.65.194.68,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+89.248.165.108,RIPE,False,False,True,False,True,False,True,IP Volume inc,IP Volume inc,1 (Very High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+64.23.234.66,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0345 (High),hosting,United States,Santa Clara,37.35411,-121.95524
+35.203.210.67,ARIN,False,False,True,False,False,True,True,GoogleCloud,Google LLC,0.0026 (Low),hosting,United Kingdom,London,51.50853,-0.12574
+162.158.154.96,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,United States,Newark,40.73566,-74.17237
+185.196.113.1,RIPE,False,False,False,False,False,False,False,,"EPIC SOLUTIONS, S.L.",0 (Very Low),isp,Spain,Reus,41.15612,1.10687
+35.203.211.155,ARIN,False,False,True,False,False,True,True,GoogleCloud,Google LLC,0.0026 (Low),hosting,United Kingdom,London,51.50853,-0.12574
+125.229.79.29,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0107 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+49.7.150.239,APNIC,False,False,False,False,False,False,False,,"ChinaTelecom Group Beijing Ltd,Co",0.0017 (Low),isp,China,Beijing,39.9075,116.39723
+216.244.66.203,ARIN,False,False,True,False,True,True,True,Wowrack.com,Wowrack.com,0.0094 (Elevated),hosting,United States,Seattle,47.60621,-122.33207
+134.209.93.64,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0348 (High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+156.59.97.86,APNIC,False,False,True,False,True,True,True,Zenlayer Singapore PTE LTD administrator,Zenlayer Singapore PTE LTD administrator,0.0024 (Low),hosting,Hong Kong,Hong Kong,22.27832,114.17469
+185.176.107.90,RIPE,False,False,False,False,False,False,False,,Free Technologies Excom S.L.,0 (Very Low),isp,Spain,Calp,38.6447,0.0445
+152.32.207.172,APNIC,False,False,True,False,True,False,True,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,0.0488 (High),hosting,United States,Reston,38.96872,-77.3411
+172.71.122.186,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,France,Paris,48.85341,2.3488
+43.165.69.68,APNIC,False,False,False,False,False,True,True,,16 COLLYER QUAY # 18-29 INCOME AT RAFFLES,0.0003 (Very Low),business,United States,Rockville,39.084,-77.15276
+185.73.23.151,RIPE,False,False,False,False,False,False,True,,Ruhr-Universitaet Bochum,0.0117 (Elevated),education,Germany,Bochum,51.48165,7.21648
+141.101.99.98,RIPE,False,False,True,False,False,False,False,cloudflare.com,Cloudflare Inc,0.0176 (Elevated),business,United Kingdom,London,51.50853,-0.12574
+138.197.220.227,ARIN,False,False,True,False,False,True,False,DigitalOcean,"DigitalOcean, LLC",0.0295 (Elevated),hosting,United States,Santa Clara,37.35411,-121.95524
+70.39.75.147,ARIN,False,False,True,False,False,True,True,Sharktech,Sharktech,0.0088 (Elevated),hosting,United States,Paradise,36.09719,-115.14666
+195.178.110.163,RIPE,False,False,False,False,True,False,True,,TECHOFF SRV LIMITED,0.3203 (Very High),business,Estonia,Tallinn,59.43696,24.75353
+172.69.67.155,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+64.62.197.4,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+118.178.240.199,APNIC,False,False,True,False,False,False,False,alibaba,"Aliyun Computing Co., LTD",0.0011 (Low),hosting,China,Hangzhou,30.29365,120.16142
+54.36.148.43,RIPE,False,AhrefsBot,True,False,False,True,True,OVH SAS,OVH SAS,0.5498 (Very High),hosting,France,Roubaix,50.69421,3.17456
+79.127.132.46,RIPE,False,False,True,False,False,True,False,DataCamp Limited,Ipex a.s,0.0566 (High),isp,United States,Ashburn,39.04372,-77.48749
+172.203.190.141,RIPE,False,False,True,False,False,True,True,Microsoft Limited,Microsoft Limited,0.0007 (Low),business,United States,Washington,38.71345,-78.15944
+45.156.129.46,RIPE,False,False,False,False,True,False,True,,INAP-CHI-1,1 (Very High),business,Belgium,Brussels,50.85045,4.34878
+159.89.99.133,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0323 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+172.68.26.246,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+176.98.189.118,RIPE,False,False,True,False,False,False,True,New Hosting Technologies LLC,New Hosting Technologies LLC,0.0273 (Elevated),hosting,Russia,Moscow,55.75222,37.61556
+64.62.156.76,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+218.161.48.17,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0067 (Low),isp,Taiwan,Taipei,25.05306,121.52639
+102.212.40.119,AFRINIC,False,False,False,False,True,False,True,,"Connect, Surf and Smile Limited",0.0518 (High),isp,Nigeria,Uyo,5.05127,7.9335
+78.153.140.203,RIPE,False,IndeedBot,True,False,True,False,True,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,0.2656 (Very High),hosting,United Kingdom,London,51.50853,-0.12574
+118.193.43.158,APNIC,False,False,True,False,True,False,True,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,0.0425 (High),hosting,Hong Kong,Hong Kong,22.27832,114.17469
+116.179.33.138,APNIC,False,False,False,False,False,False,False,,China United Network Communications Corporation Limited,0.0004 (Very Low),isp,China,Beijing,39.9075,116.39723
+172.171.245.248,RIPE,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Limited,0.0002 (Very Low),business,United States,Washington,38.71345,-78.15944
+211.227.6.83,KRNIC,False,False,False,False,True,False,True,,Korea Telecom,0.0021 (Low),isp,South Korea,Seongnam-si,37.43861,127.13778
+172.69.195.32,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United Kingdom,London,51.50853,-0.12574
+18.166.88.66,ARIN,False,False,True,False,False,True,True,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0006 (Low),hosting,Hong Kong,Hong Kong,22.27832,114.17469
+125.215.127.127,JPNIC,False,False,False,False,False,False,False,,"STNet, Incorporated",0.0002 (Very Low),isp,Japan,Takamatsu,34.33333,134.05
+125.228.47.45,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0132 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+172.234.96.249,ARIN,False,False,True,False,False,True,True,linode.akamai.com,"Akamai Technologies, Inc.",0.0016 (Low),hosting,Sweden,Stockholm,59.32938,18.06871
+47.79.5.126,ARIN,False,False,True,False,True,True,True,alibaba,Alibaba Cloud LLC,0.003 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+20.171.207.137,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+172.68.26.185,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+172.71.130.205,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,France,Paris,48.85341,2.3488
+91.196.152.115,RIPE,False,False,False,False,True,False,True,,VISTERIA LLC,0.6289 (Very High),isp,France,Roubaix,50.69421,3.17456
+172.68.26.247,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+52.249.38.227,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,San Antonio,29.42412,-98.49363
+20.163.15.189,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+172.71.152.100,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,Singapore,Singapore,1.28967,103.85007
+40.77.167.0,ARIN,False,BingBot,True,False,False,True,False,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Boydton,36.66764,-78.3875
+204.188.228.9,ARIN,False,False,True,False,False,True,True,Sharktech,Sharktech,0.012 (Elevated),hosting,United States,Chicago,41.85003,-87.65005
+172.70.90.27,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United Kingdom,London,51.50853,-0.12574
+20.65.194.164,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+172.203.190.142,RIPE,False,False,True,False,False,True,True,Microsoft Limited,Microsoft Limited,0.0007 (Low),business,United States,Washington,38.71345,-78.15944
+205.210.31.35,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.9141 (Very High),business,United States,San Jose,37.33939,-121.89496
+162.142.125.218,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",1 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+52.230.152.241,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,Des Moines,41.60054,-93.60911
+147.182.231.67,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0448 (High),hosting,United States,Santa Clara,37.35411,-121.95524
+193.189.185.113,RIPE,False,False,False,False,False,False,False,,"Telekom Slovenije, d.d.",0 (Very Low),isp,Slovenia,Ljubljana,46.05108,14.50513
+35.203.211.140,ARIN,False,False,True,False,True,True,True,GoogleCloud,Google LLC,0.0026 (Low),hosting,United Kingdom,London,51.50853,-0.12574
+37.139.5.66,RIPE,False,False,True,False,True,True,True,"DigitalOcean, LLC",DigitalOcean,0.0098 (Elevated),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+20.221.66.69,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Des Moines,41.60054,-93.60911
+198.235.24.98,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.957 (Very High),business,United States,San Jose,37.33939,-121.89496
+78.153.140.177,RIPE,False,AdsBotGoogle,True,False,True,False,True,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,0.2656 (Very High),hosting,United Kingdom,London,51.50853,-0.12574
+118.114.19.190,APNIC,False,False,False,False,True,False,True,,CHINANET SC,0.0007 (Low),isp,China,Chengdu,30.66667,104.06667
+117.213.89.0,APNIC,False,False,False,False,True,False,True,,Broadband Networks,0.0336 (High),isp,India,Bengaluru,12.97194,77.59369
+146.190.102.102,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0322 (High),hosting,Singapore,Singapore,1.28967,103.85007
+94.140.92.235,RIPE,False,False,False,False,False,False,False,,Telemach d.o.o.,0 (Very Low),isp,Slovenia,Ljubljana,46.05108,14.50513
+108.162.227.52,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0088 (Elevated),hosting,Singapore,Singapore,1.28967,103.85007
+20.65.192.177,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+196.251.85.250,AFRINIC,False,False,True,False,True,False,True,internet-security-cheapyhost,internet-security,0.125 (High),business,The Netherlands,Amsterdam,52.37403,4.88969
+78.153.140.151,RIPE,False,False,True,False,True,False,True,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,0.2656 (Very High),hosting,United Kingdom,London,51.50853,-0.12574
+185.12.59.118,RIPE,False,False,False,False,False,False,True,,NO BLIXCUST10463,0.125 (High),business,Norway,Oslo,59.91273,10.74609
+162.142.125.212,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",1 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+64.62.197.83,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+167.71.60.139,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0356 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+47.254.214.83,ARIN,False,False,True,False,False,True,True,alibaba,Alibaba Cloud LLC,0.0011 (Low),hosting,Malaysia,Kuala Lumpur,3.1412,101.68653
+78.153.140.179,RIPE,False,AdsBotGoogle,True,False,False,False,True,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,0.2656 (Very High),hosting,United Kingdom,London,51.50853,-0.12574
+37.165.78.18,RIPE,False,False,False,False,False,False,False,,Free Mobile SAS,0.0001 (Very Low),isp,France,Paris,48.85341,2.3488
+148.153.56.82,ARIN,False,False,True,False,True,True,True,"CDS Global Cloud Co., Ltd","CDS Global Cloud Co., Ltd",0.0013 (Low),hosting,United States,Los Angeles,34.05223,-118.24368
+114.35.221.19,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0152 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+220.134.19.210,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0128 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+114.33.109.99,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0153 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+114.119.137.123,APNIC,False,False,True,False,False,True,True,HUAWEI INTERNATIONAL PTE. LTD.,HUAWEI INTERNATIONAL PTE. LTD.,0.1448 (High),hosting,Singapore,Singapore,1.28967,103.85007
+167.94.138.126,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",1 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+172.69.67.251,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+143.198.35.11,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0353 (High),hosting,Canada,Toronto,43.70643,-79.39864
+43.130.72.177,APNIC,False,False,True,False,True,True,True,6 COLLYER QUAY,6 COLLYER QUAY,0.0024 (Low),business,United States,Rockville,39.084,-77.15276
+220.132.65.69,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.014 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+172.71.175.16,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+35.240.127.158,ARIN,False,False,True,False,False,True,True,Google Cloud,Google LLC,0.0015 (Low),hosting,Belgium,Brussels,50.85045,4.34878
+157.230.247.206,ARIN,False,False,True,False,False,True,False,DigitalOcean,"DigitalOcean, LLC",0.0324 (High),hosting,Singapore,Singapore,1.28967,103.85007
+4.227.36.16,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0003 (Very Low),isp,United States,Phoenix,33.44838,-112.07404
+117.209.93.128,APNIC,False,False,False,False,False,False,True,,Broadband Networks,0.2462 (Very High),isp,India,Bengaluru,12.97194,77.59369
+172.68.244.133,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Ashburn,39.04372,-77.48749
+86.162.189.122,RIPE,False,False,False,False,True,False,True,,IP pools,0.0004 (Very Low),isp,United Kingdom,Craven Arms,52.44308,-2.83562
+3.142.90.244,ARIN,False,False,True,False,False,True,False,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0009 (Low),hosting,United States,Columbus,39.96118,-82.99879
+15.204.37.92,ARIN,False,False,True,False,True,True,True,OVH US LLC,OVH US LLC,0.0107 (Elevated),hosting,United States,Hillsboro,45.52289,-122.98983
+20.171.207.33,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+188.166.49.135,RIPE,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.022 (Elevated),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+137.184.118.72,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0405 (High),hosting,United States,Santa Clara,37.35411,-121.95524
+159.65.112.165,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.037 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+206.168.34.113,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",0.459 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+52.230.152.9,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,Des Moines,41.60054,-93.60911
+109.196.127.174,RIPE,False,False,False,False,False,False,False,,MT SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,0.0022 (Low),isp,Poland,Dębica,50.05146,21.41141
+130.61.74.109,ARIN,False,False,True,False,False,True,True,Oracle Cloud,Oracle Public Cloud,0.0094 (Elevated),business,Germany,Frankfurt am Main,50.11552,8.68417
+35.212.199.52,ARIN,False,False,True,False,False,True,False,GoogleCloud,Google LLC,0.0015 (Low),hosting,United States,The Dalles,45.59456,-121.17868
+40.77.190.239,ARIN,False,BingBot,True,False,False,True,False,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Chicago,41.85003,-87.65005
+43.166.253.94,APNIC,False,False,False,False,False,True,True,,16 COLLYER QUAY # 18-29 INCOME AT RAFFLES,0.0032 (Low),business,United States,Rockville,39.084,-77.15276
+20.171.26.94,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+116.179.33.80,APNIC,False,False,False,False,False,False,True,,China United Network Communications Corporation Limited,0.0004 (Very Low),isp,China,Beijing,39.9075,116.39723
+47.79.98.89,ARIN,False,False,True,False,True,True,True,Alibaba Cloud LLC,Alibaba Cloud LLC,0.003 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+141.101.76.15,RIPE,False,False,True,False,False,False,False,cloudflare.com,Cloudflare Inc,0.1367 (High),business,The Netherlands,Amsterdam,52.37403,4.88969
+172.71.119.18,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,France,Paris,48.85341,2.3488
+122.116.89.17,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0118 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+167.94.145.97,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",1 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+134.209.148.2,ARIN,False,False,True,False,False,True,False,DigitalOcean,"DigitalOcean, LLC",0.0348 (High),hosting,India,Bengaluru,12.97194,77.59369
+162.142.125.216,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",1 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+85.255.108.243,RIPE,False,False,False,False,False,False,False,,"CSC Telecom, UAB",0.0002 (Very Low),isp,Lithuania,Vilnius,54.68916,25.2798
+216.24.216.62,ARIN,False,False,True,False,True,True,True,ipxo.com,IPXO LLC,0.1492 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+220.181.108.80,APNIC,False,BaiduSpider,False,False,False,False,False,,CHINANET Beijing province network,0.0002 (Very Low),business,China,Beijing,39.9075,116.39723
+92.255.57.178,RIPE,False,False,False,False,False,False,True,,Chang Way Technologies Co. Limited,0.207 (Very High),isp,Russia,Dachnoye,59.84167,30.25583
+162.158.189.23,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+172.68.27.25,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+209.209.9.152,ARIN,False,False,True,False,False,False,True,Rica Web Services,Rica Web Services,0.0117 (Elevated),hosting,Canada,Montréal,45.50884,-73.58781
+10.0.5.141,,False,False,False,False,False,False,False,,,,,,,,
+34.140.130.14,ARIN,False,False,True,False,True,True,True,GoogleCloud,Google LLC,0.0008 (Low),hosting,Belgium,Brussels,50.85045,4.34878
+45.79.120.183,ARIN,False,False,True,False,False,True,True,linode.akamai.com,Linode,0.0248 (Elevated),business,India,Mumbai,19.07283,72.88261
+20.65.193.128,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+172.202.117.223,RIPE,False,False,True,False,True,True,True,Microsoft Limited,Microsoft Limited,0.0007 (Low),business,United States,Des Moines,41.60054,-93.60911
+52.167.144.57,ARIN,False,BingBot,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0007 (Low),isp,United States,Boydton,36.66764,-78.3875
+185.91.127.81,RIPE,False,False,True,False,True,False,True,Ferdinand Zink trading as Tube-Hosting,TUBE VPS,0.1953 (High),business,Germany,Bad Königshofen im Grabfeld,50.30082,10.46887
+3.138.151.23,ARIN,False,False,True,False,False,True,True,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0009 (Low),hosting,United States,Columbus,39.96118,-82.99879
+194.50.16.252,RIPE,False,False,True,False,True,False,True,HostUS Solutions LLC,Alsycon B.V.,0.332 (Very High),hosting,The Netherlands,Zaanstad,52.45313,4.81356
+49.51.72.76,APNIC,False,False,True,False,False,True,True,tencent,"Tencent cloud computing (Beijing) Co., Ltd.",0.0054 (Low),isp,United States,San Jose,37.33939,-121.89496
+10.19.0.55,,False,False,False,False,False,False,False,,,,,,,,
+82.198.201.114,RIPE,False,False,False,False,False,False,False,,Bremen Briteline GmbH,0 (Very Low),isp,Germany,Bremen,53.07582,8.80717
+159.89.99.204,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0323 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+13.89.125.228,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0008 (Low),isp,United States,Des Moines,41.60054,-93.60911
+47.79.98.4,ARIN,False,False,True,False,True,True,True,Alibaba Cloud LLC,Alibaba Cloud LLC,0.003 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+217.113.194.132,RIPE,False,False,True,False,False,False,True,L'ile aux surfers s.a.r.l.,FR BABBAR 20220729,0.9922 (Very High),business,France,Charleville-Mézières,49.7495,4.6095
+104.28.130.139,ARIN,False,False,True,False,False,False,False,iCloud Private Relay,"Cloudflare, Inc.",0.0045 (Low),hosting,Slovenia,Ljubljana,46.05108,14.50513
+4.227.36.58,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0003 (Very Low),isp,United States,Phoenix,33.44838,-112.07404
+141.98.11.175,RIPE,False,False,True,False,True,False,True,LT HOSTBALTIC 11,LT HOSTBALTIC 11,0.4648 (Very High),business,Lithuania,Panevėžys,55.7333,24.35
+159.89.22.184,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0323 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+52.156.77.151,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0007 (Low),isp,United States,Seattle,47.60621,-122.33207
+64.112.74.158,ARIN,False,False,True,False,False,False,True,"DediOutlet, LLC","DediOutlet, LLC",0.0186 (Elevated),hosting,United States,Mesa,33.42227,-111.82264
+114.119.158.118,APNIC,False,False,True,False,False,True,True,HUAWEI INTERNATIONAL PTE. LTD.,HUAWEI INTERNATIONAL PTE. LTD.,0.1448 (High),hosting,Singapore,Singapore,1.28967,103.85007
+35.160.27.221,ARIN,False,SemanticScholarBot,True,False,False,True,True,Amazon Technologies Inc.,"Amazon.com, Inc.",0.0006 (Low),business,United States,Boardman,41.02423,-80.66285
+206.168.34.192,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",0.459 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+218.161.97.71,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0067 (Low),isp,Taiwan,Taipei,25.038171,121.563599
+114.34.85.73,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0107 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+194.187.176.211,RIPE,False,False,False,False,True,False,True,,Alpha Strike Labs GmbH,0.998 (Very High),business,Germany,Berlin,52.52437,13.41053
+106.75.15.230,APNIC,False,False,True,False,True,False,True,Shanghai UCloud Information Technology Company Limited,Shanghai UCloud Information Technology Company Limited,0.0172 (Elevated),hosting,China,Shanghai,31.22222,121.45806
+147.185.132.212,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.2695 (Very High),business,United States,San Jose,37.33939,-121.89496
+109.236.61.115,RIPE,False,False,True,False,True,True,True,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,0.1484 (High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+179.43.175.246,LACNIC,False,False,True,False,False,True,True,PRIVATE LAYER INC,PRIVATE LAYER INC,0.0302 (High),hosting,Switzerland,Zürich,47.36667,8.55
+167.172.177.58,RIPE,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0312 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+178.17.8.232,RIPE,False,False,False,False,True,False,True,,UVT Internet s.r.o.,0 (Very Low),isp,Czechia,Jesenice,49.96814,14.5135
+181.188.166.178,LACNIC,False,False,False,False,False,False,False,,Telefónica Celular de Bolivia S.A.,0.0092 (Elevated),isp,Bolivia,La Paz,-16.5,-68.15
+47.82.9.127,ARIN,False,False,True,False,False,True,True,Alibaba Cloud LLC,Alibaba Cloud LLC,0.003 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+202.98.62.18,APNIC,False,False,False,False,True,False,True,,CHINANET Chongqing province network,0.0005 (Very Low),isp,China,Chongqing,29.56026,106.55771
+172.70.189.88,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,Singapore,Singapore,1.28967,103.85007
+43.130.67.6,APNIC,False,False,True,False,False,True,True,6 COLLYER QUAY,6 COLLYER QUAY,0.0024 (Low),business,United States,Rockville,39.084,-77.15276
+185.147.124.57,RIPE,False,False,True,False,True,True,True,Address Management Inc.,Almira LLC,0.2656 (Very High),business,Russia,Moscow,55.75222,37.61556
+43.159.128.155,APNIC,False,False,True,False,False,True,True,tencent,6 COLLYER QUAY,0.0056 (Low),business,United States,San Jose,37.33939,-121.89496
+172.71.150.95,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Seattle,47.60621,-122.33207
+59.126.136.131,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0183 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+85.90.246.159,RIPE,False,False,True,False,True,True,True,linode.akamai.com,"Linode, LLC",0.0117 (Elevated),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+172.172.245.179,RIPE,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Limited,0.0002 (Very Low),business,United States,Washington,38.71345,-78.15944
+94.102.49.155,RIPE,False,False,True,False,True,False,True,IP Volume inc,IP Volume inc,0.1719 (High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+43.153.76.247,APNIC,False,False,True,False,True,True,True,tencent,6 COLLYER QUAY,0.0385 (High),business,United States,San Jose,37.33939,-121.89496
+36.49.87.130,APNIC,False,False,False,False,True,False,True,,CHINANET Jilin province network,0.0054 (Low),isp,China,Liaoyuan,42.903641,125.135462
+106.75.156.189,APNIC,False,False,True,False,True,False,True,Shanghai UCloud Information Technology Company Limited,Shanghai UCloud Information Technology Company Limited,0.0172 (Elevated),hosting,China,Shanghai,31.22222,121.45806
+122.117.246.138,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.015 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+52.167.144.236,ARIN,False,BingBot,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0007 (Low),isp,United States,Boydton,36.66764,-78.3875
+185.242.226.116,RIPE,False,False,True,False,True,False,True,HostUS Solutions LLC,AI Spera,1 (Very High),business,The Netherlands,Amsterdam,52.37403,4.88969
+43.157.158.178,APNIC,False,False,True,False,True,True,True,6 COLLYER QUAY,6 COLLYER QUAY,0.002 (Low),business,Brazil,São Paulo,-23.5475,-46.63611
+154.212.141.141,AFRINIC,False,False,True,False,True,False,True,CloudInnovation infrastructure,CloudInnovation infrastructure,0.375 (Very High),business,Hong Kong,Hong Kong,22.27832,114.17469
+52.230.152.79,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,Des Moines,41.60054,-93.60911
+125.228.130.9,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0132 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+162.158.174.175,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,United States,Dallas,32.78306,-96.80667
+45.148.10.235,RIPE,False,False,True,False,True,False,True,Bunea TELECOM SRL,PPTECHNOLOGY LIMITED,0.4336 (Very High),business,The Netherlands,Amsterdam,52.37403,4.88969
+54.36.149.94,RIPE,False,AhrefsBot,True,False,False,True,True,OVH SAS,OVH SAS,0.5498 (Very High),hosting,France,Roubaix,50.69421,3.17456
+35.203.211.32,ARIN,False,False,True,False,True,True,True,GoogleCloud,Google LLC,0.0026 (Low),hosting,United Kingdom,London,51.50853,-0.12574
+45.88.97.103,RIPE,False,False,True,False,False,True,True,ipxo.com,Private Customer,0.168 (High),business,Germany,Frankfurt am Main,50.11552,8.68417
+40.77.190.214,ARIN,False,BingBot,True,False,False,True,False,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Chicago,41.85003,-87.65005
+66.249.75.70,ARIN,False,GoogleBot,True,False,False,True,False,Google LLC,Google LLC,0.0269 (Elevated),hosting,United States,Palo Alto,37.44188,-122.14302
+162.158.222.41,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,Norway,Oslo,59.91273,10.74609
+147.185.132.64,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.2695 (Very High),business,United States,San Jose,37.33939,-121.89496
+20.42.10.191,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Washington,38.71345,-78.15944
+20.168.6.84,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+172.69.194.124,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United Kingdom,London,51.50853,-0.12574
+161.35.31.26,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0374 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+162.142.125.121,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",1 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+172.69.155.143,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,Poland,Warsaw,52.22977,21.01178
+34.79.7.83,ARIN,False,False,True,False,True,True,True,GoogleCloud,Google LLC,0.0015 (Low),hosting,Belgium,Brussels,50.85045,4.34878
+3.145.168.48,ARIN,False,False,True,False,False,True,True,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0009 (Low),hosting,United States,Columbus,39.96118,-82.99879
+104.152.52.123,ARIN,False,False,True,False,True,True,True,Rethem Hosting LLC,Rethem Hosting LLC,0.2344 (Very High),hosting,United States,Chicago,41.85003,-87.65005
+104.28.114.59,ARIN,False,False,True,False,False,False,False,iCloud Private Relay,"Cloudflare, Inc.",0.0045 (Low),hosting,Slovenia,Ljubljana,46.05108,14.50513
+64.227.76.104,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0352 (High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+20.98.141.44,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Des Moines,41.60054,-93.60911
+172.172.245.168,RIPE,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Limited,0.0002 (Very Low),business,United States,Washington,38.71345,-78.15944
+179.43.175.250,LACNIC,False,False,True,False,True,True,True,PRIVATE LAYER INC,PRIVATE LAYER INC,0.0302 (High),hosting,Switzerland,Zürich,47.36667,8.55
+172.69.65.202,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+213.32.32.81,RIPE,False,False,True,False,True,True,True,OVH SAS,ONYPHE SAS,1 (Very High),business,France,Roubaix,50.69421,3.17456
+43.166.245.120,APNIC,False,False,False,False,True,True,True,,16 COLLYER QUAY # 18-29 INCOME AT RAFFLES,0.0032 (Low),business,United States,Rockville,39.084,-77.15276
+167.71.19.176,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0356 (High),hosting,United States,North Bergen,40.80427,-74.01208
+54.36.148.111,RIPE,False,AhrefsBot,True,False,False,True,True,OVH SAS,OVH SAS,0.5498 (Very High),hosting,France,Roubaix,50.69421,3.17456
+44.204.102.51,ARIN,False,False,True,False,False,True,True,"Amazon.com, Inc.",Amazon Data Services NoVa,0.0008 (Low),business,United States,Ashburn,39.04372,-77.48749
+80.82.77.202,RIPE,False,False,True,False,True,False,True,IP Volume inc,IP Volume inc,0.0586 (High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+172.70.86.132,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United Kingdom,London,51.50853,-0.12574
+20.171.29.48,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+165.22.28.132,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0384 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+64.62.156.66,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+196.251.114.71,AFRINIC,False,False,True,False,False,False,True,Hetzner-ZA,internet-security,0.0508 (High),business,The Netherlands,Amsterdam,52.37403,4.88969
+114.35.52.171,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0152 (Elevated),isp,Taiwan,Banqiao,25.014352,121.467469
+52.230.152.120,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,Des Moines,41.60054,-93.60911
+134.209.227.209,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0348 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+45.148.10.35,RIPE,False,False,True,False,True,False,True,Bunea TELECOM SRL,PPTECHNOLOGY LIMITED,0.4336 (Very High),business,The Netherlands,Amsterdam,52.37403,4.88969
+24.144.81.53,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0162 (Elevated),hosting,United States,Santa Clara,37.35411,-121.95524
+220.133.30.1,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0139 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+51.8.102.254,RIPE,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Deutschland MCIO GmbH,0.0032 (Low),hosting,United States,Washington,38.71345,-78.15944
+172.69.67.150,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+54.36.148.185,RIPE,False,AhrefsBot,True,False,False,True,True,OVH SAS,OVH SAS,0.5498 (Very High),hosting,France,Roubaix,50.69421,3.17456
+13.40.56.162,ARIN,False,False,True,False,False,True,False,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0006 (Low),hosting,United Kingdom,London,51.50853,-0.12574
+219.157.56.250,APNIC,False,False,False,False,True,False,True,,China Unicom IP network,0.0075 (Low),isp,China,Zhengzhou,34.75778,113.64861
+37.165.78.118,RIPE,False,False,False,False,False,False,False,,Free Mobile SAS,0.0001 (Very Low),isp,France,Paris,48.85341,2.3488
+51.222.253.16,ARIN,False,AhrefsBot,True,False,False,True,True,"OVH Hosting, Inc.","OVH Hosting, Inc.",0.0065 (Low),hosting,Canada,Montréal,45.50884,-73.58781
+91.196.152.79,RIPE,False,False,False,False,True,False,True,,VISTERIA LLC,0.6289 (Very High),isp,France,Roubaix,50.69421,3.17456
+40.77.190.150,ARIN,False,BingBot,True,False,False,True,False,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Chicago,41.85003,-87.65005
+184.105.139.70,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0013 (Low),isp,United States,Fremont,37.54827,-121.98857
+172.68.26.249,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+51.68.76.141,RIPE,False,False,True,False,True,True,True,OVH SAS,OVH SAS,0.0029 (Low),hosting,France,Roubaix,50.69421,3.17456
+185.224.128.70,RIPE,False,False,True,False,False,False,True,SpectraIP B.V.,Alsycon B.V.,0.3828 (Very High),hosting,The Netherlands,Zaanstad,52.45313,4.81356
+8.220.202.246,APNIC,False,False,True,False,False,True,True,alibaba,Alibaba Cloud (Singapore) Private Limited,0.0051 (Low),hosting,South Korea,Seoul,37.566,126.9784
+162.158.175.134,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,United States,Dallas,32.78306,-96.80667
+47.82.11.181,ARIN,False,False,True,False,False,True,True,Alibaba Cloud LLC,Alibaba Cloud LLC,0.003 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+104.28.130.138,ARIN,False,False,True,False,False,False,False,iCloud Private Relay,"Cloudflare, Inc.",0.0045 (Low),hosting,Slovenia,Ljubljana,46.05108,14.50513
+91.196.152.61,RIPE,False,False,False,False,True,False,True,,VISTERIA LLC,0.6289 (Very High),isp,France,Roubaix,50.69421,3.17456
+172.203.190.134,RIPE,False,False,True,False,False,True,True,Microsoft Limited,Microsoft Limited,0.0007 (Low),business,United States,Washington,38.71345,-78.15944
+204.188.228.165,ARIN,False,False,True,False,False,True,True,Sharktech,Sharktech,0.012 (Elevated),hosting,United States,Chicago,41.85003,-87.65005
+206.189.57.162,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.039 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+3.140.190.124,ARIN,False,False,True,False,False,True,True,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0009 (Low),hosting,United States,Columbus,39.96118,-82.99879
+81.17.99.86,RIPE,False,False,True,False,True,True,True,TerraTransit AG,Contabo GmbH,0.0068 (Low),hosting,Germany,Düsseldorf,51.22172,6.77616
+205.210.31.68,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.9141 (Very High),business,United States,San Jose,37.33939,-121.89496
+216.218.206.67,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.003 (Low),isp,United States,Fremont,37.54827,-121.98857
+43.135.148.92,APNIC,False,False,True,False,True,True,True,tencent,16 COLLYER QUAY,0.0211 (Elevated),business,United States,San Jose,37.33939,-121.89496
+64.124.8.181,ARIN,False,False,False,False,False,False,True,,Zayo Bandwidth,0.005 (Low),isp,United States,Reston,38.96872,-77.3411
+164.52.24.188,APNIC,False,False,True,False,True,True,True,"401 RAYLAND ST STE 200-A, Reno, NV 89502, USA","401 RAYLAND ST STE 200-A, Reno, NV 89502, USA",0.0898 (High),hosting,Japan,Tokyo,35.6895,139.69171
+66.240.236.109,ARIN,False,False,True,False,True,True,True,"CariNet, Inc.","CariNet, Inc.",0.0011 (Low),hosting,United States,Henderson,36.0397,-114.98194
+162.158.111.36,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+164.90.147.93,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0324 (High),hosting,United States,Santa Clara,37.35411,-121.95524
+47.121.133.117,APNIC,False,False,True,False,True,False,True,alibaba,"Aliyun Computing Co., LTD",0.0008 (Low),hosting,China,Shenzhen,22.54554,114.0683
+71.6.232.27,ARIN,False,False,True,False,False,True,True,"CariNet, Inc.","CariNet, Inc.",0.0096 (Elevated),hosting,United States,Henderson,36.0397,-114.98194
+47.79.2.24,ARIN,False,False,True,False,True,True,True,alibaba,Alibaba Cloud LLC,0.003 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+47.82.9.48,ARIN,False,False,True,False,False,True,True,Alibaba Cloud LLC,Alibaba Cloud LLC,0.003 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+40.77.167.54,ARIN,False,BingBot,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Boydton,36.66764,-78.3875
+52.230.152.106,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,Des Moines,41.60054,-93.60911
+59.120.17.53,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0078 (Low),isp,Taiwan,Taipei,25.038171,121.563599
+51.254.49.103,RIPE,False,False,True,False,False,True,True,OVH SAS,ONYPHE SAS,1 (Very High),business,France,Roubaix,50.69421,3.17456
+172.203.190.133,RIPE,False,False,True,False,False,True,True,Microsoft Limited,Microsoft Limited,0.0007 (Low),business,United States,Washington,38.71345,-78.15944
+20.65.193.164,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+172.70.86.143,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United Kingdom,London,51.50853,-0.12574
+51.8.102.159,RIPE,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Deutschland MCIO GmbH,0.0032 (Low),hosting,United States,Washington,38.71345,-78.15944
+103.78.218.139,APNIC,False,False,False,False,False,False,True,,PT. Cemerlang Multimedia,0.0137 (Elevated),isp,Indonesia,Bandung,-6.9203,107.623258
+114.119.156.17,APNIC,False,False,True,False,False,True,True,HUAWEI INTERNATIONAL PTE. LTD.,HUAWEI INTERNATIONAL PTE. LTD.,0.1448 (High),hosting,Singapore,Singapore,1.28967,103.85007
+45.156.130.8,RIPE,False,False,False,False,True,False,True,,INAP-PHX-1,1 (Very High),business,Belgium,Brussels,50.85045,4.34878
+36.106.167.209,APNIC,False,False,False,False,True,False,True,,CHINANET TIANJIN PROVINCE NETWORK,0.0075 (Low),isp,China,Hangzhou,30.29365,120.16142
+179.189.254.54,LACNIC,False,False,False,False,True,False,True,,WorldNet Telecom Comercio e Serviços de Telecomuni,0.0027 (Low),isp,Brazil,Recife,-8.05389,-34.88111
+43.173.1.57,APNIC,False,False,False,False,True,True,True,,ACEVILLE PTE.LTD.,0.0001 (Very Low),business,Indonesia,Jakarta,-6.208678,106.845493
+4.246.231.226,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0003 (Very Low),isp,United States,Washington,38.71345,-78.15944
+172.70.93.40,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,Singapore,Singapore,1.28967,103.85007
+167.94.138.183,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",1 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+20.65.194.133,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+172.69.67.151,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+220.133.40.168,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0139 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+172.71.119.28,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,France,Paris,48.85341,2.3488
+57.129.64.237,RIPE,False,False,True,False,True,True,True,OVH GmbH,OVH GmbH,0.0156 (Elevated),hosting,Germany,Limburg an der Lahn,50.3836,8.0503
+172.203.233.230,RIPE,False,False,True,False,True,True,True,Microsoft Limited,Microsoft Limited,0.0007 (Low),business,United States,Washington,38.71345,-78.15944
+40.77.188.114,ARIN,False,BingBot,True,False,False,True,False,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Chicago,41.85003,-87.65005
+220.135.152.21,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0119 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+106.75.13.123,APNIC,False,False,True,False,True,False,True,Shanghai UCloud Information Technology Company Limited,Shanghai UCloud Information Technology Company Limited,0.0172 (Elevated),hosting,China,Shanghai,31.22222,121.45806
+165.232.98.177,ARIN,False,False,True,False,False,True,False,DigitalOcean,"DigitalOcean, LLC",0.0363 (High),hosting,United Kingdom,London,51.50853,-0.12574
+220.132.62.167,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.014 (Elevated),isp,Taiwan,Taipei,25.05306,121.52639
+172.69.67.154,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+18.116.27.169,ARIN,False,False,True,False,True,True,True,Amazon AWS,Amazon Technologies Inc.,0.0006 (Low),hosting,United States,Columbus,39.96118,-82.99879
+125.229.90.59,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0107 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+207.46.13.230,ARIN,False,BingBot,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0012 (Low),isp,United States,Bellevue,47.61038,-122.20068
+45.148.10.90,RIPE,False,False,True,False,True,False,True,Bunea TELECOM SRL,PPTECHNOLOGY LIMITED,0.4336 (Very High),business,The Netherlands,Amsterdam,52.37403,4.88969
+172.68.27.96,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+159.89.25.189,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0323 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+104.234.115.126,ARIN,False,False,True,False,True,True,True,Velcom,Internet Utilities NA LLC,0.0194 (Elevated),hosting,United States,Wisconsin Rapids,44.38358,-89.81735
+185.180.140.101,RIPE,False,False,True,False,True,False,True,ICG-1-CARI,"NSEC - Sistemas Informaticos, S.A.",0.0674 (High),business,Belgium,Brussels,50.85045,4.34878
+87.121.84.131,RIPE,False,False,True,False,False,False,True,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,0.1211 (High),business,The Netherlands,Amsterdam,52.37403,4.88969
+45.156.128.45,RIPE,False,False,False,False,False,False,True,,INAP-AMS-1,1 (Very High),business,Belgium,Brussels,50.85045,4.34878
+172.70.94.136,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+54.36.148.156,RIPE,False,AhrefsBot,True,False,False,True,True,OVH SAS,OVH SAS,0.5498 (Very High),hosting,France,Roubaix,50.69421,3.17456
+40.77.167.131,ARIN,False,BingBot,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Boydton,36.66764,-78.3875
+217.113.194.136,RIPE,False,False,True,False,False,False,True,L'ile aux surfers s.a.r.l.,FR BABBAR 20220729,0.9922 (Very High),business,France,Charleville-Mézières,49.7495,4.6095
+84.17.86.9,RIPE,False,False,False,False,True,False,False,,TELNET TELEKOM HIZMETLERI ANONIM SIRKETI,0.0004 (Very Low),isp,Turkey,Istanbul,41.01384,28.94966
+114.33.107.229,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0153 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+167.172.40.92,RIPE,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0312 (High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+70.39.75.151,ARIN,False,False,True,False,True,True,True,Sharktech,Sharktech,0.0088 (Elevated),hosting,United States,Paradise,36.09719,-115.14666
+35.189.232.73,ARIN,False,False,True,False,False,True,True,GoogleCloud,Google LLC,0.0015 (Low),hosting,Belgium,Brussels,50.85045,4.34878
+172.68.27.95,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+172.71.119.60,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,France,Paris,48.85341,2.3488
+86.128.248.117,RIPE,False,False,False,False,True,False,True,,IP pools,0.0004 (Very Low),isp,United Kingdom,Middlesmoor,54.1637,-1.86044
+43.166.244.192,APNIC,False,False,False,False,False,True,True,,16 COLLYER QUAY # 18-29 INCOME AT RAFFLES,0.0032 (Low),business,United States,Rockville,39.084,-77.15276
+4.236.188.181,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0003 (Very Low),isp,United States,Washington,38.71345,-78.15944
+124.156.179.141,APNIC,False,False,True,False,False,True,True,tencent,16 COLLYER QUAY,0.0052 (Low),business,Hong Kong,Hong Kong,22.27832,114.17469
+59.126.93.56,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0183 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+92.255.57.58,RIPE,False,False,False,False,True,False,True,,Chang Way Technologies Co. Limited,0.207 (Very High),isp,Russia,Dachnoye,59.84167,30.25583
+167.172.37.60,RIPE,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0312 (High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+220.181.51.90,APNIC,False,False,False,False,False,False,False,,CHINANET Beijing province network,0.0002 (Very Low),business,China,Beijing,39.9075,116.39723
+159.100.17.130,RIPE,False,False,True,False,False,True,True,First Colo GmbH,First Colo GmbH,0.0156 (Elevated),hosting,Germany,Grünstadt,49.56302,8.16279
+220.134.68.227,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0128 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+93.174.93.12,RIPE,False,False,True,False,True,False,True,IP Volume inc,IP Volume inc,0.2422 (Very High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+20.65.193.255,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+114.119.153.209,APNIC,False,False,True,False,False,True,True,HUAWEI INTERNATIONAL PTE. LTD.,HUAWEI INTERNATIONAL PTE. LTD.,0.1448 (High),hosting,Singapore,Singapore,1.28967,103.85007
+156.229.21.54,AFRINIC,False,False,True,False,True,False,True,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,0.0039 (Low),hosting,United States,Rockville,39.084,-77.15276
+146.212.44.180,RIPE,False,False,False,False,False,False,False,,"A1 Slovenija telekomunikacijske storitve,d.d.",0.0003 (Very Low),isp,Slovenia,Domžale,46.13774,14.59371
+91.196.152.118,RIPE,False,False,False,False,True,False,True,,VISTERIA LLC,0.6289 (Very High),isp,France,Roubaix,50.69421,3.17456
+64.227.123.94,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0352 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+45.141.84.55,RIPE,False,False,False,False,False,False,True,,MediaLand,0.207 (Very High),business,Russia,Dachnoye,59.84167,30.25583
+52.230.152.89,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,Des Moines,41.60054,-93.60911
+45.80.27.236,RIPE,False,False,False,False,False,False,False,,Free Pro SAS,0 (Very Low),isp,France,Marseille,43.29695,5.38107
+20.65.193.54,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+59.183.125.144,APNIC,False,False,False,False,False,False,False,,Mahanagar Telephone Nigam Limited,0.0193 (Elevated),isp,India,Patti,31.28092,74.85849
+20.168.125.82,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+20.83.52.220,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Des Moines,41.60054,-93.60911
+51.8.102.176,RIPE,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Deutschland MCIO GmbH,0.0032 (Low),hosting,United States,Washington,38.71345,-78.15944
+87.236.176.88,RIPE,False,False,False,False,True,False,True,,Driftnet Ltd,0.9922 (Very High),business,United Kingdom,London,51.50853,-0.12574
+175.206.86.143,KRNIC,False,False,False,False,True,False,True,,Korea Telecom,0.0024 (Low),isp,South Korea,Seongnam-si,37.43861,127.13778
+206.81.25.128,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0422 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+162.158.106.233,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+20.169.105.0,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+45.156.128.130,RIPE,False,False,False,False,False,False,True,,INAP-AMS-1,1 (Very High),business,Belgium,Brussels,50.85045,4.34878
+20.171.31.124,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+83.55.103.51,RIPE,False,False,False,False,False,False,False,,Ronda de la Comunicacion s/n,0.0003 (Very Low),isp,Spain,Segovia,40.94808,-4.11839
+141.101.99.135,RIPE,False,False,True,False,False,False,False,cloudflare.com,Cloudflare Inc,0.0176 (Elevated),business,United Kingdom,London,51.50853,-0.12574
+87.121.84.183,RIPE,False,False,True,False,True,False,True,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,0.1211 (High),business,The Netherlands,Amsterdam,52.37403,4.88969
+162.158.222.19,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,Norway,Oslo,59.91273,10.74609
+64.62.197.82,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+198.235.24.212,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.957 (Very High),business,United States,San Jose,37.33939,-121.89496
+172.70.94.137,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+147.185.133.200,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.2695 (Very High),business,United States,San Jose,37.33939,-121.89496
+185.242.226.14,RIPE,False,False,True,False,False,False,True,HostUS Solutions LLC,AI Spera,1 (Very High),business,The Netherlands,Amsterdam,52.37403,4.88969
+147.139.145.197,ARIN,False,False,True,False,False,True,True,alibaba,Alibaba Cloud - ID,0.0041 (Low),business,Indonesia,Jakarta,-6.21462,106.84513
+137.184.73.15,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0405 (High),hosting,United States,North Bergen,40.80427,-74.01208
+64.23.212.26,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0345 (High),hosting,United States,Santa Clara,37.35411,-121.95524
+45.140.17.52,RIPE,False,False,False,False,False,False,True,,Proton66 LLC,0.9961 (Very High),business,Russia,Moscow,55.75222,37.61556
+172.71.232.51,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,France,Paris,48.85341,2.3488
+172.232.133.233,ARIN,False,False,True,False,False,True,True,linode.akamai.com,"Akamai Technologies, Inc.",0.0016 (Low),hosting,Sweden,Stockholm,59.32938,18.06871
+137.184.227.6,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0405 (High),hosting,United States,Santa Clara,37.35411,-121.95524
+64.62.197.2,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+172.71.119.27,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,France,Paris,48.85341,2.3488
+51.195.190.7,RIPE,False,False,True,False,True,True,True,OVH Ltd,OVH Ltd,0.0391 (High),hosting,France,Charleville-Mézières,49.7495,4.6095
+136.243.220.210,RIPE,False,False,True,False,True,True,True,Hetzner Online GmbH,Dataforseo OU,0.75 (Very High),business,Germany,Falkenstein,50.47788,12.37129
+188.198.111.96,RIPE,False,False,False,False,False,False,False,,Telekom Slovenije d.d. 1000 Ljubljana SI Slovenia,0 (Very Low),isp,Slovenia,Ljubljana,46.05108,14.50513
+162.158.190.26,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+173.244.58.130,ARIN,False,False,True,False,True,True,True,LogicWeb Inc.,LogicWeb Inc.,0.0288 (Elevated),hosting,Japan,Tokyo,35.6895,139.69171
+172.71.130.204,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,France,Paris,48.85341,2.3488
+59.126.119.22,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0183 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+15.204.37.93,ARIN,False,False,True,False,True,True,True,OVH US LLC,OVH US LLC,0.0107 (Elevated),hosting,United States,Hillsboro,45.52289,-122.98983
+196.251.85.238,AFRINIC,False,False,True,False,True,False,True,internet-security-cheapyhost,internet-security,0.125 (High),business,The Netherlands,Amsterdam,52.37403,4.88969
+162.158.174.174,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,United States,Dallas,32.78306,-96.80667
+206.168.34.125,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",0.459 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+35.240.127.190,ARIN,False,False,True,False,True,True,True,Google Cloud,Google LLC,0.0015 (Low),hosting,Belgium,Brussels,50.85045,4.34878
+66.249.75.69,ARIN,False,GoogleBot,True,False,False,True,False,Google LLC,Google LLC,0.0269 (Elevated),hosting,United States,Palo Alto,37.44188,-122.14302
+45.156.130.47,RIPE,False,False,False,False,True,False,True,,INAP-PHX-1,1 (Very High),business,Belgium,Brussels,50.85045,4.34878
+185.180.140.106,RIPE,False,False,True,False,True,False,True,ICG-1-CARI,"NSEC - Sistemas Informaticos, S.A.",0.0674 (High),business,Belgium,Brussels,50.85045,4.34878
+152.32.204.21,APNIC,False,False,True,False,True,False,True,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,0.0244 (Elevated),hosting,Japan,Tokyo,35.6895,139.69171
+4.236.191.252,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0003 (Very Low),isp,United States,Washington,38.71345,-78.15944
+172.68.26.204,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+40.77.167.7,ARIN,False,BingBot,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Boydton,36.66764,-78.3875
+52.230.152.146,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,Des Moines,41.60054,-93.60911
+43.153.48.240,APNIC,False,False,True,False,True,True,True,tencent,6 COLLYER QUAY,0.0385 (High),business,United States,San Jose,37.33939,-121.89496
+210.176.44.217,APNIC,False,False,False,False,True,False,True,,Telstra International Limited,0 (Very Low),isp,Taiwan,Taipei,25.038171,121.563599
+220.181.108.105,APNIC,False,BaiduSpider,False,False,False,False,False,,CHINANET Beijing province network,0.0002 (Very Low),business,China,Beijing,39.9075,116.39723
+172.203.190.129,RIPE,False,False,True,False,False,True,True,Microsoft Limited,Microsoft Limited,0.0007 (Low),business,United States,Washington,38.71345,-78.15944
+167.71.53.169,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0356 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+220.181.51.113,APNIC,False,False,False,False,False,False,False,,CHINANET Beijing province network,0.0002 (Very Low),business,China,Beijing,39.9075,116.39723
+20.29.36.140,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0003 (Very Low),isp,United States,Des Moines,41.60054,-93.60911
+104.248.40.208,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0329 (High),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+35.203.210.72,ARIN,False,False,True,False,True,True,True,GoogleCloud,Google LLC,0.0026 (Low),hosting,United Kingdom,London,51.50853,-0.12574
+165.154.209.201,APNIC,False,False,True,False,True,False,True,Scloud Pte Ltd,Scloud Pte Ltd,0.062 (High),hosting,United Kingdom,London,51.50853,-0.12574
+141.101.99.129,RIPE,False,False,True,False,False,False,False,cloudflare.com,Cloudflare Inc,0.0176 (Elevated),business,United Kingdom,London,51.50853,-0.12574
+45.156.129.54,RIPE,False,False,False,False,True,False,True,,INAP-CHI-1,1 (Very High),business,Belgium,Brussels,50.85045,4.34878
+62.60.191.60,RIPE,False,False,False,False,True,False,True,,Iranian Research Organization for Science & Technology,0.007 (Low),government,Iran,Tehran,35.69424,51.42131
+205.210.31.244,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.9141 (Very High),business,United States,San Jose,37.33939,-121.89496
+47.79.120.246,ARIN,False,False,True,False,True,True,True,Alibaba Cloud LLC,Alibaba Cloud LLC,0.003 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+1.34.247.157,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0098 (Elevated),isp,Taiwan,Banqiao,25.014352,121.467469
+20.171.30.31,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+213.32.122.82,RIPE,False,False,True,False,False,True,True,OVH SAS,abuse.intrinsec.com Site Abuse,0.1875 (High),business,France,Roubaix,50.69421,3.17456
+172.70.163.143,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United Kingdom,London,51.50853,-0.12574
+34.76.203.56,ARIN,False,False,True,False,False,True,True,GoogleCloud,Google LLC,0.0015 (Low),hosting,Belgium,Brussels,50.85045,4.34878
+52.230.152.184,ARIN,False,False,True,False,False,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,Des Moines,41.60054,-93.60911
+66.249.75.71,ARIN,False,GoogleBot,True,False,False,True,False,Google LLC,Google LLC,0.0269 (Elevated),hosting,United States,Palo Alto,37.44188,-122.14302
+217.113.194.138,RIPE,False,False,True,False,False,False,True,L'ile aux surfers s.a.r.l.,FR BABBAR 20220729,0.9922 (Very High),business,France,Charleville-Mézières,49.7495,4.6095
+206.168.34.64,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",0.459 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+45.156.130.20,RIPE,False,False,False,False,True,False,True,,INAP-PHX-1,1 (Very High),business,Belgium,Brussels,50.85045,4.34878
+220.134.244.39,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0128 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+114.35.152.38,TWNIC,False,False,False,False,True,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0152 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+141.101.98.228,RIPE,False,False,True,False,False,False,False,cloudflare.com,Cloudflare Inc,0.0176 (Elevated),business,United Kingdom,London,51.50853,-0.12574
+144.126.146.166,ARIN,False,False,True,False,True,False,True,Contabo Inc.,Contabo Inc.,0.0189 (Elevated),hosting,United States,Seattle,47.60621,-122.33207
+194.187.176.125,RIPE,False,False,False,False,True,False,True,,Alpha Strike Labs GmbH,0.998 (Very High),business,Germany,Berlin,52.52437,13.41053
+64.62.197.86,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+171.6.244.53,APNIC,False,False,False,False,True,False,True,,Triple T Broadband Public Company Limited,0.0063 (Low),isp,Thailand,Takua Pa,8.8705,98.34383
+20.65.194.113,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+170.106.110.146,APNIC,False,False,True,False,True,True,True,tencent,16 COLLYER QUAY,0.0069 (Low),business,United States,San Jose,37.33939,-121.89496
+162.158.111.35,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0077 (Low),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+109.236.61.95,RIPE,False,False,True,False,True,True,True,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,0.1484 (High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+65.49.1.27,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0116 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+18.119.98.59,ARIN,False,False,True,False,True,True,True,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0006 (Low),hosting,United States,Columbus,39.96118,-82.99879
+64.62.156.85,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+172.68.27.26,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+162.216.150.75,ARIN,False,False,True,False,True,True,True,Google LLC,Google LLC,0.501 (Very High),hosting,United States,North Charleston,32.85462,-79.97481
+45.163.134.128,LACNIC,False,False,False,False,True,False,True,,HENRIQUE CANGUSSU ALVES,0.0098 (Elevated),business,Brazil,Mozarlândia,-14.74472,-50.57056
+40.77.189.249,ARIN,False,BingBot,True,False,False,True,False,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Chicago,41.85003,-87.65005
+59.126.231.180,TWNIC,False,False,False,False,False,False,True,,"Chunghwa Telecom Co.,Ltd.",0.0183 (Elevated),isp,Taiwan,Taipei,25.038171,121.563599
+34.79.118.200,ARIN,False,False,True,False,False,True,True,GoogleCloud,Google LLC,0.0015 (Low),hosting,Belgium,Brussels,50.85045,4.34878
+64.62.156.78,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+4.236.189.38,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0003 (Very Low),isp,United States,Washington,38.71345,-78.15944
+71.6.232.20,ARIN,False,False,True,False,True,True,True,"CariNet, Inc.","CariNet, Inc.",0.0096 (Elevated),hosting,United States,Henderson,36.0397,-114.98194
+154.81.156.7,AFRINIC,False,False,True,False,False,False,True,Cloud Innovation Ltd,Cloud Innovation Ltd,0.0352 (High),hosting,The Netherlands,Maastricht,50.8931,6.0591
+47.82.0.12,ARIN,False,False,True,False,True,True,True,Alibaba Cloud LLC,Alibaba Cloud LLC,0.003 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+167.172.45.207,RIPE,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0312 (High),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+60.98.5.163,APNIC,True,False,False,False,True,False,True,,SOFTBANK Corp.,0.0001 (Very Low),isp,Japan,Tokyo,35.6895,139.69171
+38.170.230.26,RWHOIS,False,False,True,False,False,True,True,HostPapa,24Shells Inc.,0.0122 (Elevated),hosting,United States,Los Angeles,34.05223,-118.24368
+20.113.27.135,ARIN,False,False,True,False,False,True,False,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,Germany,Frankfurt am Main,50.11552,8.68417
+43.135.140.225,APNIC,False,False,True,False,False,True,True,tencent,16 COLLYER QUAY,0.0211 (Elevated),business,United States,San Jose,37.33939,-121.89496
+172.71.232.94,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,France,Paris,48.85341,2.3488
+87.121.84.204,RIPE,False,False,True,False,True,False,True,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,0.1211 (High),business,The Netherlands,Amsterdam,52.37403,4.88969
+20.150.204.251,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0006 (Low),isp,United States,Phoenix,33.44838,-112.07404
+172.68.26.219,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+2.38.80.86,RIPE,True,False,False,False,False,False,False,,Vodafone Italia S.p.A.,0.0009 (Low),isp,Italy,Rimini,44.05755,12.56528
+64.62.197.14,ARIN,False,False,False,False,True,True,True,,Hurricane Electric LLC,0.0154 (Elevated),isp,United States,Pleasanton,37.66243,-121.87468
+124.221.247.200,APNIC,False,False,True,False,False,True,True,tencent,"Tencent cloud computing (Beijing) Co., Ltd.",0.0057 (Low),isp,China,Beijing,39.9075,116.39723
+193.77.86.250,RIPE,False,False,False,False,False,False,False,,"Telekom Slovenije, d.d.",0 (Very Low),isp,Slovenia,Kranj,46.23887,14.35561
+147.185.132.33,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.2695 (Very High),business,United States,San Jose,37.33939,-121.89496
+128.199.141.17,RIPE,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0367 (High),hosting,Singapore,Singapore,1.28967,103.85007
+206.168.34.121,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",0.459 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+20.168.5.198,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+35.240.7.120,ARIN,False,False,True,False,True,True,True,Google Cloud,Google LLC,0.0015 (Low),hosting,Belgium,Brussels,50.85045,4.34878
+138.68.187.198,ARIN,False,False,True,False,False,True,False,DigitalOcean,"DigitalOcean, LLC",0.0261 (Elevated),hosting,United Kingdom,London,51.50853,-0.12574
+51.254.49.111,RIPE,False,False,True,False,False,True,True,OVH SAS,ONYPHE SAS,1 (Very High),business,France,Roubaix,50.69421,3.17456
+152.42.234.64,ARIN,False,False,True,False,True,True,True,DigitalOcean,"DigitalOcean, LLC",0.0233 (Elevated),hosting,Singapore,Singapore,1.28967,103.85007
+199.204.96.10,ARIN,False,False,True,False,True,False,True,"DediOutlet, LLC","DediOutlet, LLC",0.0215 (Elevated),hosting,United States,Kansas City,39.11417,-94.62746
+20.169.104.121,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+117.221.174.75,APNIC,False,False,False,False,False,False,True,,Broadband Networks,0.0201 (Elevated),isp,India,Bengaluru,12.97194,77.59369
+179.43.186.225,LACNIC,False,False,True,False,True,True,True,PRIVATE LAYER INC,PRIVATE LAYER INC,0.0302 (High),hosting,Switzerland,Zürich,47.36667,8.55
+51.81.181.175,ARIN,False,False,True,False,True,True,True,OVH US LLC,OVH US LLC,0.0108 (Elevated),hosting,United States,Hillsboro,45.52289,-122.98983
+8.211.162.45,APNIC,False,False,True,False,True,True,True,alibaba,Alibaba Cloud (Singapore) Private Limited,0.0051 (Low),hosting,Japan,Tokyo,35.6895,139.69171
+78.153.140.224,RIPE,False,Applebot,True,False,False,False,True,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,0.2656 (Very High),hosting,United Kingdom,London,51.50853,-0.12574
+172.68.26.205,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+3.16.148.11,ARIN,False,False,True,False,False,True,True,Amazon Technologies Inc.,Amazon Technologies Inc.,0.0007 (Low),hosting,United States,Columbus,39.96118,-82.99879
+143.110.187.242,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.048 (High),hosting,India,Bengaluru,12.97194,77.59369
+205.210.31.93,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.9141 (Very High),business,United States,San Jose,37.33939,-121.89496
+45.148.10.34,RIPE,False,False,True,False,True,False,True,Bunea TELECOM SRL,PPTECHNOLOGY LIMITED,0.4336 (Very High),business,The Netherlands,Amsterdam,52.37403,4.88969
+51.81.144.32,ARIN,False,False,True,False,True,True,True,OVH US LLC,OVH US LLC,0.0108 (Elevated),hosting,United States,Hillsboro,45.52289,-122.98983
+5.189.147.149,RIPE,False,False,True,False,True,True,True,Contabo GmbH,Contabo GmbH,0.0325 (High),hosting,France,Rheinstetten,48.9685,8.30704
+45.142.193.141,RIPE,False,False,True,False,True,False,True,MAGIT'ST SRL,MAGIT'ST SRL,0.4805 (Very High),hosting,United Kingdom,Liverpool,53.41058,-2.97794
+195.178.110.224,RIPE,False,False,False,False,True,False,True,,TECHOFF SRV LIMITED,0.3203 (Very High),business,Estonia,Tallinn,59.43696,24.75353
+172.71.175.15,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United States,Dallas,32.78306,-96.80667
+84.239.43.151,RIPE,False,False,False,False,False,True,True,,INVITE Systems SRL,0.2344 (Very High),business,United States,Wilmington,34.23556,-77.94604
+193.138.1.200,RIPE,False,False,False,False,False,False,False,,Institut Jozef Stefan,0.0039 (Low),business,Slovenia,Ljubljana,46.05108,14.50513
+172.203.190.139,RIPE,False,False,True,False,False,True,True,Microsoft Limited,Microsoft Limited,0.0007 (Low),business,United States,Washington,38.71345,-78.15944
+64.23.208.133,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0345 (High),hosting,United States,Santa Clara,37.35411,-121.95524
+40.77.188.81,ARIN,False,BingBot,True,False,False,True,False,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,Chicago,41.85003,-87.65005
+167.94.145.104,ARIN,False,False,False,False,True,False,True,,"Censys, Inc.",1 (Very High),business,United States,Ann Arbor,42.27756,-83.74088
+205.210.31.255,ARIN,False,False,False,False,True,True,True,,"Palo Alto Networks, Inc",0.9141 (Very High),business,United States,San Jose,37.33939,-121.89496
+188.166.146.143,RIPE,False,False,True,False,False,True,True,DIGITALOCEAN,DIGITALOCEAN,0.0454 (High),hosting,United Kingdom,London,51.50853,-0.12574
+172.71.99.8,ARIN,False,False,True,False,False,False,True,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,The Netherlands,Amsterdam,52.37403,4.88969
+107.182.30.153,ARIN,False,False,True,False,False,True,True,Cluster Logic Inc,Cluster Logic Inc,0.0127 (Elevated),business,United States,Los Angeles,34.05223,-118.24368
+43.130.57.46,APNIC,False,False,True,False,False,True,True,6 COLLYER QUAY,6 COLLYER QUAY,0.0137 (Elevated),business,United States,San Jose,37.33939,-121.89496
+20.65.193.213,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0005 (Very Low),isp,United States,San Antonio,29.42412,-98.49363
+172.71.26.79,ARIN,False,False,True,False,False,False,False,cloudflare.com,"Cloudflare, Inc.",0.0122 (Elevated),hosting,United Kingdom,London,51.50853,-0.12574
+47.91.91.123,ARIN,False,False,True,False,False,True,True,alibaba,Alibaba Cloud LLC,0.0021 (Low),hosting,Germany,Frankfurt am Main,50.11552,8.68417
+59.0.203.176,KRNIC,False,False,False,False,True,False,True,,Korea Telecom,0.0021 (Low),isp,South Korea,Gwangju,35.15472,126.91556
+8.219.153.58,APNIC,False,False,True,False,False,True,True,alibaba,Alibaba Cloud (Singapore) Private Limited,0.0051 (Low),hosting,Singapore,Singapore,1.28967,103.85007
+20.169.104.239,ARIN,False,False,True,False,True,True,True,Microsoft Azure,Microsoft Corporation,0.0011 (Low),isp,United States,Phoenix,33.44838,-112.07404
+188.166.220.242,RIPE,False,False,True,False,False,True,True,DIGITALOCEAN,DIGITALOCEAN,0.0439 (High),hosting,Singapore,Singapore,1.28967,103.85007
+141.98.11.97,RIPE,False,False,True,False,True,False,True,LT HOSTBALTIC 11,LT HOSTBALTIC 11,0.4648 (Very High),business,Lithuania,Panevėžys,55.7333,24.35
+209.38.81.198,ARIN,False,False,True,False,False,True,True,DigitalOcean,"DigitalOcean, LLC",0.0374 (High),hosting,Australia,Sydney,-33.86785,151.20732
