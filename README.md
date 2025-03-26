@@ -25,7 +25,7 @@
 - Introduction to Pandas
 - Acquiring Your Data
 - Data Wrangling With Pandas
-- Exploratory Data Analysis With Pandas
+- Exploratory Data Analysis
 - Data Analysis Workflow
 - Working With Timeseries Data
 - Interacting with SQL databases
@@ -86,13 +86,12 @@
 - String Manipulation
 - Handling Duplicates
 - Handling Missing Data
-- Data Type Conversion
 - Data Transformation
-- Merging & Reshaping Data
+- Data Type Conversion
+- Merging Data
 - Handling Outliers
 - Ensuring Data Quality and Integrity
 - End-to-End Data Wrangling Pipeline
 
 ## Changes
 
-<!-- - https://medium.com/@vakgul/data-analysis-nyc-subway-ridership-density-eac09ad491dc -->
