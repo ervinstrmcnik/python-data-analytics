@@ -154,10 +154,10 @@ def generate_ip_info_dataset(unique_ips: list[str], output_path: Path) -> None:
                     ),
                 )
             else:
-                logger.error(f"Error while processing IP {ip}: {data.status_code}. Details: {data.text}")
+                logger.error(f"Error while processing IP {unique_ip}: {data.status_code}. Details: {data.text}")
                 continue
         except Exception as err:  # noqa: BLE001
-            logger.error(f"Error while processing IP {ip}: {err}")
+            logger.error(f"Error while processing IP {unique_ip}: {err}")
 
     ip_data_df = pd.DataFrame(ip_data, columns=header)
     ip_data_df.to_csv(output_path, index=False)
