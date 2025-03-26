@@ -6,3 +6,6 @@ pandas[excel,performance,html]==2.2.3
 matplotlib==3.10.0
 pyarrow
 loguru==0.7.3
+python-dotenv==1.0.1
+fuzzywuzzy[speedup]==0.18.0
+missingno==0.5.2
