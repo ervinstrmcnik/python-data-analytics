@@ -101,7 +101,11 @@
 - Reshaping Data: Melting and Pivoting
 - End-to-End EDA Workflow
 
-### [Part 7: Working With Timeseries Data](./Part_07_Working_With_Timeseries_Data/README.md)
+### [Part 7: Databases and SQL](./Part_07_Databases_and_SQL/README.md)
+- Introduction to Databases
+
+
+### [Part 8: Working With Timeseries Data](./Part_08_Working_With_Timeseries_Data/README.md)
 - Overview
 
 ## Changes
