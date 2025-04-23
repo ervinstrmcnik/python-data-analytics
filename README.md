@@ -103,7 +103,12 @@
 
 ### [Part 7: Databases and SQL](./Part_07_Databases_and_SQL/README.md)
 - Introduction to Databases
-
+- SQLite
+- Introduction to SQL
+- Work with the SQLite database using raw Python
+- SQLAlchemy
+- Working with databases and Pandas
+- Example: Data import from CSV to SQLite database
 
 ### [Part 8: Working With Timeseries Data](./Part_08_Working_With_Timeseries_Data/README.md)
 - Overview
